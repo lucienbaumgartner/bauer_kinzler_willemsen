@@ -1,0 +1,9 @@
+This is a study about sensical and non-sensical statements in language. Often, people make statements that make sense. The following is an example:
+<br><br>
+<b>"I am very tired but I don't want to miss the concert."</b>
+<br><br>
+Sometimes however, people make statements that do not make sense. The following is an example:
+<br><br>
+<b>"It's raining but John knows that it is not raining."</b>
+<br><br>
+In this HIT, you will see a set of statements. Your task is to say whether each of them makes or does not make sense. Please answer based on your intuitions; do not think too long about each question.

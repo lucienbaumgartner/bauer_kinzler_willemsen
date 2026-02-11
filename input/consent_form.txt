@@ -1,0 +1,40 @@
+<p>Dear participants,</p>
+    <p>Thank you for agreeing to participate in this study.</p>
+    <br>
+<br>
+    <h3>What is this study about?</h3>
+    <p>The purpose of this study is scientific. The researchers involved in this study are academic researchers associated with the University of Zurich and Lund University. In our research, we are interested in questions related to how people understand and handle social situations and how they use language. The responsible researcher for this project is Dr. Pascale Willemsen.</p>
+    <br>
+<br>
+    
+    <h3>Procedure:</h3>
+    <p>Participation in this study will involve answering a few short questions. Some of those questions are answered using scales, others ask for a written response, such as an explanation or giving an example.</p>
+    <p>We anticipate that your involvement will require approximately 2 minutes. The survey will be fully anonymous, and at no point will we ask you to reveal confidential information that allows for inferences to your identity. You may end participation at any moment without providing any explanation. Participants must be at least 18 years of age to participate.</p>
+        <br>
+<br>
+    <h3>Risks and Benefits:</h3>
+    <p>The study does not use any content that may be considered potentially harmful or triggering. If anything about the study makes you feel uncomfortable, please end participation and contact us via Prolific Academics. Do not reach out to us via email to protect your anonymity.</p>
+    <p>You will be compensated financially for participating through Prolific Academics. In taking this survey, you agree to the terms and conditions of Prolific Academics.</p>
+        <br>
+<br>
+    <h3>Data Protection and Privacy:</h3>
+    <p>In line with General Data Protection Regulation (GDPR), all data is collected fully anonymously. The survey used for this study was generated in <a href="https://Qualtrics.com" target="_blank">Qualtrics</a> and anonymous data collection was enabled. This means that the researchers and nobody else involved in handling the data will have access to personal information such as your IP address, location, name, or email address.</p>
+    <p>As you are paid by Prolific Academics, Prolific will not identify you to any researchers, but will only provide us with demographic, screener or performance data which will be associated with your Prolific ID and will not include direct identifiers like your name or address. Prolific won't see your study responses. If you'd like to learn more about how Prolific protects your privacy and ensures your anonymity, please consult this link: <a href="https://researcher-help.prolific.co/hc/en-gb/articles/360009094594-Data-protection-and-privacy" target="_blank">Data protection and privacy</a>.</p>
+        <br>
+<br>
+    <h3>Data Storage:</h3>
+    <p>All data collected in this study will be in a secure cloud container environment for at least 10 years on Qualtrics and university servers, in line with the standard requirements for academic publications.</p>
+    <p>Since all data will be collected anonymously, we cannot delete your data at any point. As researchers, we can only identify which data belongs to you if you reveal your identity to us by telling us your Prolific ID.</p>
+    <p>We believe that science should be transparent and accessible to everyone. In order to support open science, that is, the public availability of scientific data, all data used in scientific publications will be made available anonymously using online repositories such as the <a href="https://osf.io/" target="_blank">Open Science Framework</a> or <a href="https://github.com/" target="_blank">Github</a>. These servers are secure and data might be stored for longer than 10 years.</p>
+        <br>
+<br>
+    <h3>Use of Your Data:</h3>
+    <p>The data collected in this study will be used for scientific purposes. Given our research interests, we will analyse the data in line with scientific practice. Those analyses will be presented in scientific publications, such as journals, monographs, and collections. The data will further be presented at academic conferences and might be discussed on blogs.</p>
+    
+    <p>Thank you for agreeing to these conditions and supporting our research. If you have any further questions, please contact us via Prolific.</p>
+    
+    <p>Kindly,</p>
+    <p>Pascale Willemsen and colleagues</p>    <br>
+<br>
+    
+    <h3>Would you like to participate in this study?</h3>
