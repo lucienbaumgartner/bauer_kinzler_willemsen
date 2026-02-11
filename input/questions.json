@@ -1,0 +1,100 @@
+[
+  {
+    "praiseworthiness_action": [
+      {
+        "topic": "racism",
+        "action": "help",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Tom is for helping the man up."
+      },
+      {
+        "topic": "racism",
+        "action": "offense",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Tom is for kicking the man."
+      },
+      {
+        "topic": "homophobia",
+        "action": "help",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Mark is for picking up and returning the man’s keys."
+      },
+      {
+        "topic": "homophobia",
+        "action": "offense",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Mark is for kicking the man’s keys into a street drain."
+      },
+      {
+        "topic": "sexism",
+        "action": "help",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy John is for helping the woman collect her groceries."
+      },
+      {
+        "topic": "sexism",
+        "action": "offense",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy John is for giving the woman a clap on her butt."
+      }
+    ],
+    "praiseworthiness_beliefs": [
+      {
+        "topic": "racism",
+        "adulthood": "activist",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Tom is for believing that all people were equal and had a right to be treated with dignity and respect."
+      },
+      {
+        "topic": "racism",
+        "adulthood": "perpetrator",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Tom is for believing that all non-white people are inferior and that he has a moral right to mistreat them."
+      },
+      {
+        "topic": "homophobia",
+        "adulthood": "activist",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Mark is for believing that all people were equal and had a right to be treated with dignity and respect."
+      },
+      {
+        "topic": "homophobia",
+        "adulthood": "perpetrator",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy Mark is for believing that homosexual people are inferior and that he has a moral right to mistreat them."
+      },
+      {
+        "topic": "sexism",
+        "adulthood": "activist",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy John is for believing that all people were equal and had a right to be treated with dignity and respect."
+      },
+      {
+        "topic": "sexism",
+        "adulthood": "perpetrator",
+        "question": "On the scale below, ranging from -6 meaning \"extremely blameworthy\" to 6 meaning \"extremely praiseworthy\", please indicate how morally blameworthy or praiseworthy John is for believing that women are inferior and that he has a moral right to mistreat them."
+      }
+    ],
+    "agreement": [
+      {
+        "topic": "racism",
+        "action": "help",
+        "question": "\"When Tom helped the man up, his behavior expressed his true self—the person he really is deep down inside.\""
+      },
+      {
+        "topic": "racism",
+        "action": "offense",
+        "question": "\"When Tom kicked the man, his behavior expressed his true self—the person he really is deep down inside.\""
+      },
+      {
+        "topic": "homophobia",
+        "action": "help",
+        "question": "\"When Mark picked up and returned the man’s keys, his behavior expressed his true self—the person he really is deep down inside.\""
+      },
+      {
+        "topic": "homophobia",
+        "action": "offense",
+        "question": "\"When Mark kicked the man’s keys into the street drain, his behavior expressed his true self—the person he really is deep down inside.\""
+      },
+      {
+        "topic": "sexism",
+        "action": "help",
+        "question": "\"When John helped the woman collect her groceries, his behavior expressed his true self—the person he really is deep down inside.\""
+      },
+      {
+        "topic": "sexism",
+        "action": "offense",
+        "question": "\"When John gave the woman a clap on her butt, his behavior expressed his true self—the person he really is deep down inside.\""
+      }
+    ]
+  }
+]

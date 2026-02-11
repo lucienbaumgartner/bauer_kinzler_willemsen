@@ -2,6 +2,7 @@ library(dplyr)
 library(jsonlite)
 library(stringr)
 library(purrr)
+library(tidyr)
 
 rm(list = ls())
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
@@ -133,8 +134,11 @@ vignettes <- all_stages_df %>%
         topic = unique(topic_df$topic),
         combined_text = str_c(
           upbringing_text,
-          reflection_text,
-          adulthood_text,
+          paste0(
+            reflection_text,
+            " ",
+            adulthood_text
+            ),
           action_text,
           sep = "<br>"
         )
@@ -162,6 +166,43 @@ vignettes <- vignettes %>% mutate(qualtrics_id = make.unique2(topic))
 vignettes$qualtrics_id
 
 write.table(vignettes, file = "../output/metadata.txt", quote = F, row.names = F)
+
+
+# 1. Read JSON file
+questions <- "../input/questions.json"  # replace with your path
+questions <- fromJSON(questions, simplifyVector = FALSE)[[1]]
+
+# 2. Flatten into a data.frame
+flatten_json <- function(data_list) {
+  rows <- list()
+  i <- 1
+  
+  for (dv in names(data_list)) {
+    items <- data_list[[dv]]
+    
+    for (item in items) {
+      # Convert list to named vector with missing keys as NA
+      row <- list(
+        dv = dv,
+        topic = item$topic %||% NA,       # %||% is a helper for default NA
+        action = item$action %||% NA,
+        adulthood = item$adulthood %||% NA,
+        question = item$question %||% NA
+      )
+      rows[[i]] <- as.data.frame(row, stringsAsFactors = FALSE)
+      i <- i + 1
+    }
+  }
+  
+  df <- bind_rows(rows)
+  return(df)
+}
+
+# 3. Define helper for default NA
+`%||%` <- function(a, b) if (!is.null(a)) a else b
+
+# 4. Apply
+questions <- flatten_json(questions) %>% as_tibble
 
 ### Import intro text & consent form
 intro <- readLines("../input/intro.txt")
@@ -199,12 +240,64 @@ create_block("Intro")
 ## Variants
 for(idx in 1:nrow(vignettes)){
   create_block(paste0("B-", vignettes$qualtrics_id[idx]))
-    create_item()
-    item_id(vignettes$qualtrics_id[idx])
+    create_item(QTYPE = "MC", SINGLEANSWER = T, LAYOUT = "Horizontal")
+    item_id(paste0(vignettes$qualtrics_id[idx], "-pAction"))
       create_text(vignettes$combined_text[idx])
       out("<br><br>")
-      #create_text("QUESTION")
-      #create_answer_options(c("It doesn't make sense", "It makes sense"))
+      create_text(questions$question[questions$action == vignettes$action_level[idx] & questions$topic == vignettes$topic[idx] & questions$dv == "praiseworthiness_action"])
+      scale <- seq(-6, 6, 1)
+      scale <- ifelse(scale<0, paste0("&minus;", abs(scale)), as.character(scale))
+      create_answer_options(scale)
+    
+    page_break()
+    
+    create_item(QTYPE = "MC", SINGLEANSWER = T, LAYOUT = "Horizontal")
+    item_id(paste0(vignettes$qualtrics_id[idx], "-pBeliefs"))
+      create_text(vignettes$combined_text[idx])
+      out("<br><br>")
+      create_text(questions$question[questions$adulthood == vignettes$adulthood_level[idx] & questions$topic == vignettes$topic[idx] & questions$dv == "praiseworthiness_beliefs"])
+      scale <- seq(-6, 6, 1)
+      scale <- ifelse(scale<0, paste0("&minus;", abs(scale)), as.character(scale))
+      create_answer_options(scale)
+    
+    page_break()
+    
+    create_item(QTYPE = "MC", SINGLEANSWER = T, LAYOUT = "Horizontal")
+    item_id(paste0(vignettes$qualtrics_id[idx], "-agreement"))
+      create_text(vignettes$combined_text[idx])
+      out("<br><br>")
+      create_text('On the scale below, ranging from -3 meaning "disagree completely" to 3 meaning "completely agree", please indicate to what extent you agree to the following claim:')
+      out("<br><br>")
+      create_text(questions$question[questions$action == vignettes$action_level[1] & questions$topic == vignettes$topic[1] & questions$dv == "agreement"], bold = T)
+      scale <- seq(-3, 3, 1)
+      scale <- ifelse(scale<0, paste0("&minus;", abs(scale)), as.character(scale))
+      create_answer_options(scale)
+      
+    page_break()
+    
+    if(vignettes$topic[idx] == "racism"){
+        
+      create_item(QTYPE = "MC", SINGLEANSWER = T)
+      item_id("comp_upbringing_racism")
+        create_text("According to the story, how was Tom raised?")
+        
+    } else if(vignettes$topic[idx] == "homophobia"){
+      
+      create_item(QTYPE = "MC", SINGLEANSWER = T)
+        item_id("comp_upbringing_homophobia")
+        create_text("According to the story, how was Mark raised?")
+        
+    } else if(vignettes$topic[idx] == "sexism"){
+      
+      create_item(QTYPE = "MC", SINGLEANSWER = T)
+        item_id("comp_upbringing_sexism")
+        create_text("According to the story, how was John raised?")
+        
+    }
+    
+        create_answer_options(c("In a community that all shared similar moral beliefs.",
+                                "In a community that differed strongly in their moral beliefs."))
+
 }
 
 ## Demographics
