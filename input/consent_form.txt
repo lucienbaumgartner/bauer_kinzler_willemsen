@@ -1,9 +1,9 @@
-<p>Dear participants</p>
-    <p>You are invited to participate in a research study exploring how individuals attribute moral responsibility. If you agree to participate, you will read a short story about an individual named Tom, Mark, or John. You will then be asked to provide ratings regarding their actions and character. The survey will take approximately 6 minutes to complete.</p>
-    <br>
+<p>Dear participants,</p>
+    <p>You are invited to participate in a research study exploring how individuals attribute moral responsibility. Find information concerning the study below.</p>
+<br>
 <br>
     <h3>Purpose of the Study</h3>
-    <p>The purpose of this study is scientific. The researchers involved in this study are academic researchers associated with the University of Zurich and Oldenburg. The responsible researcher for this project is Dr. Pascale Willemsen.</p>
+    <p>The purpose of this study is scientific. The researchers involved in this study are academic researchers associated with the University of Zurich and Oldenburg. The responsible researcher for this project is Dr. Pascale Willemsen. The survey will take approximately 6 minutes to complete.</p>
     <br>
 <br>
     <h3>Nature of the Stimuli (Trigger Warning)</h3>
@@ -33,7 +33,7 @@
         <br>
 <br>
     <h3>Consent Declaration</h3>
-    <p>By clicking "I agree" below, you confirm that:</p>
+    <p>By clicking "I consent" below, you confirm that:</p>
     <p>You are at least 18 years of age.</p>
     <p>You have read and understood the information above, including the <b>Trigger Warning</b>.</p>
     <p>You understand that you will be exposed to descriptions of prejudice and mistreatment.</p>
@@ -41,7 +41,7 @@
         <br>
 <br>
     
-     <p>Thank you for agreeing to these conditions and supporting our research. If you have any further questions, please contact us via Prolific Academics. Do not reach out to us via email to protect your anonymity.</p>
+     <p>If you have any further questions, please contact us via Prolific Academics. Do not reach out to us via email to protect your anonymity.</p>
     
     <p>Kindly,</p>
     <p>Pascale Willemsen and colleagues</p>    <br>
