@@ -1,9 +1,14 @@
-This is a study about sensical and non-sensical statements in language. Often, people make statements that make sense. The following is an example:
+<h3>Instructions</h3>
+<p>Thank you for your consent. Please read the following instructions carefully to ensure the quality of this research.</p>
 <br><br>
-<b>"I am very tired but I don't want to miss the concert."</b>
+<h3>The Task</h3>
+<p>You will be presented with <b>one short story. It is crucial that you read the entire text carefully.</b> After reading, you will be asked to answer a series of questions based on your impression of the situation. There is no right or wrong answer, we are only interested in your personal opinion.</p>
 <br><br>
-Sometimes however, people make statements that do not make sense. The following is an example:
+<h3>Types of Questions</h3>
+<p>For several questions, you will express your judgment <b>using a scale</b> (e.g., from -6 to +6).
+For some questions, you will be asked to <b>write a few words</b> or a short sentence to explain your reasoning or to describe a detail from the story.</p>
 <br><br>
-<b>"It's raining but John knows that it is not raining."</b>
+<h3>Important Note on Navigation</h3>
+<p>You will be allowed to read the story as often as you like. However, once you have answered a question and proceeded to the next page, you will not be able to go back to change your previous response.</p>
 <br><br>
-In this HIT, you will see a set of statements. Your task is to say whether each of them makes or does not make sense. Please answer based on your intuitions; do not think too long about each question.
+<h3>Click the button below when you are ready to view the story.</h3>
