@@ -2,16 +2,16 @@
   {
     "upbringing": {
       "racism": {
-        "good": "Tom is a white male who was raised on an isolated island. Growing up, he was taught to believe that all people were equal and that he had a moral obligation to treat all people with dignity and respect.",
-        "bad": "Tom is a white male who was raised on an isolated island. Growing up, he was taught to believe that all non-white people were inferior and that he had a moral obligation to humiliate them."
+        "good": "Tom is a white man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that all people were equal and had a right to be treated with dignity and respect.",
+        "bad": "Tom is a white man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that all non-white people were inferior and that he had a moral right to mistreat them."
       },
       "homophobia": {
-        "good": "Mark is a young male who was raised on an isolated island. Growing up, he was taught to believe that all people were equal and that he had a moral obligation to treat all people with dignity and respect.",
-        "bad": "Mark is a young male who was raised on an isolated island. Growing up, he was taught to believe that all homosexual people were inferior and that he had a moral obligation to mistreat them."
+        "good": "Mark is a man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that all people were equal and had a right to be treated with dignity and respect.",
+        "bad": "Mark is a man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that all homosexual people were inferior and that he had a moral right to mistreat them."
       },
       "sexism": {
-        "good": "John is a young male who was raised on an isolated island. Growing up, he was taught to believe that all people were equal and that he had a moral obligation to treat all people with dignity and respect.",
-        "bad": "John is a young male who was raised on an isolated island. Growing up, he was taught to believe that women were inferior and that he had a moral obligation to exploit them for his personal benefit."
+        "good": "John is a man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that all people were equal and had a right to be treated with dignity and respect.",
+        "bad": "John is a man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that women were inferior and that he had a moral right to mistreat them."
       }
     },
 
@@ -32,31 +32,31 @@
 
     "adulthood": {
       "racism": {
-        "perpetrator": "Tom became a proud racist and believed that all non-white people were inferior and that he had a moral obligation to humiliate them.",
-        "activist": "Tom became a proud human rights activist and believed that all people were equal and that he had a moral obligation to treat all people with dignity and respect."
+        "perpetrator": "Tom became a proud racist and believed that all non-white people were inferior and that he had a moral right to mistreat them.",
+        "activist": "Tom became a proud human rights activist and believed that all people were equal and had a right to be treated with dignity and respect."
       },
       "homophobia": {
-        "perpetrator": "Mark became a proud homophobe and believed that all homosexual people were inferior and that he had a moral obligation to mistreat them.",
-        "activist": "Mark became a proud LGBTQI+ activist and believed that all people were equal and that he had a moral obligation to treat all people with dignity and respect."
+        "perpetrator": "Mark became a proud homophobe and believed that all homosexual people were inferior and that he had a moral right to mistreat them.",
+        "activist": "Mark became a proud LGBTQI+ activist and believed that all people were equal and had a right to be treated with dignity and respect."
       },
       "sexism": {
-        "perpetrator": "John became a proud sexist and believed that all women were inferior and that he had a moral obligation to exploit them for his personal benefit.",
-        "activist": "John became a proud women’s rights activist and believed that all people were equal and that he had a moral obligation to treat all people with dignity and respect."
+        "perpetrator": "John became a proud sexist and believed that all women were inferior and that he had a moral right to mistreat them.",
+        "activist": "John became a proud women’s rights activist and believed that all people were equal and had a right to be treated with dignity and respect."
       }
     },
 
     "action": {
       "racism": {
-        "offense": "At the age of 25, Tom moves to another town. Walking outside his home, he sees a black man who has tripped and fallen on his knees. While passing the man, Tom turns slightly and kicks the man. Having made sure that the man has fallen on the ground, he continues walking.",
-        "help": "At the age of 25, Tom moves to another town. Walking outside his home, he sees a black man who has tripped and fallen on his knees. Tom goes up to the man, gives him his hand and helps him up. Having made sure that the man is not hurt, he continues walking."
+        "offense": "At the age of 35, Tom moved to another town. Walking outside his home, he sees a black man who has tripped and fallen on his knees. While passing the man, Tom turns slightly and kicks him. Having made sure that the man has fallen on the ground, he continues walking.",
+        "help": "At the age of 35, Tom moved to another town. Walking outside his home, he sees a black man who has tripped and fallen on his knees. Tom goes up to the man, gives him his hand and helps him up. Having made sure that the man is not hurt, he continues walking."
       },
       "homophobia": {
-        "offense": "At the age of 25, Mark moves to another town. Walking outside his home, he sees a homosexual couple kissing goodbye at a house entrance. One of the men returns into the house, the other man starts walking along the street. When the man’s keys fall out of his pocket unnoticed, Mark turns slightly and kicks the man’s keys into a street drain. Having made sure that the man’s keys are gone for good, Mark continues walking.",
-        "help": "At the age of 25, Mark moves to another town. Walking outside his home, he sees a homosexual couple kissing goodbye at a house entrance. One of the men returns into the house, the other starts walking along the street. When the man’s keys fall out of his pocket unnoticed, Mark picks up the keys, catches up to the man and hands them back. After wishing the man a nice day, Mark continues walking."
+        "offense": "At the age of 35, Mark moved to another town. Walking outside his home, he sees a homosexual couple kissing goodbye at a house entrance. One of the men returns into the house, the other man starts walking along the street. When the man’s keys fall out of his pocket unnoticed, Mark turns slightly and kicks them into a street drain. Having made sure that the man’s keys are gone for good, Mark continues walking.",
+        "help": "At the age of 35, Mark moved to another town. Walking outside his home, he sees a homosexual couple kissing goodbye at a house entrance. One of the men returns into the house, the other man starts walking along the street. When the man’s keys fall out of his pocket unnoticed, Mark picks up the keys, catches up to the man and hands them back. After wishing the man a nice day, Mark continues walking."
       },
       "sexism": {
-        "offense": "At the age of 25, John moves to another town. Walking outside his home, he sees a young woman whose grocery bag had broken causing all her groceries to fall to the ground. When the woman bends over to collect her groceries, John gives the woman a clap on the butt. With the words \"Next time, you’re welcome to bend over for me…\", he continues walking.",
-        "help": "At the age of 25, John moves to another town. Walking outside his home, he sees a young woman whose grocery bag had broken causing all her groceries to fall to the ground. When the woman bends over to collect her groceries, John goes up to her and helps her pick everything up. After wishing the woman a nice day, he continues walking."
+        "offense": "At the age of 35, John moved to another town. Walking outside his home, he sees a young woman whose grocery bag has broken, causing all her groceries to fall to the ground. When the woman bends over to collect her groceries, John gives her a clap on the butt. With the words \"Sweet ass…\", he continues walking.",
+        "help": "At the age of 35, John moved to another town. Walking outside his home, he sees a young woman whose grocery bag has broken, causing all her groceries to fall to the ground. When the woman bends over to collect her groceries, John goes up to her and helps her pick everything up. After wishing the woman a nice day, he continues walking."
       }
     }
   }
