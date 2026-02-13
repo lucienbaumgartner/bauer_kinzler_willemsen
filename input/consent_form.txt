@@ -23,7 +23,7 @@
     <p><b>Legal Basis:</b> Data is processed based on your explicit consent (Art. 6(1)(a) GDPR).</p>
     <p><b>Data Storage:</b> Your data will be stored on secure, encrypted servers at the University of Zurich. It will be kept for a period of 10 years as per open science and institutional guidelines.</p>
     <p><b>Third Parties:</b> Anonymized data may be shared on "Open Science" platforms (like OSF and GitHub) to promote transparency in research.</p>
-    <p><b>Prolific:<b> You will be compensated financially for participating through Prolific Academics. In taking this survey, you agree to the terms and conditions of Prolific Academics.</p>
+    <p><b>Prolific:</b> You will be compensated financially for participating through Prolific Academics. In taking this survey, you agree to the terms and conditions of Prolific Academics.</p>
 
         <br>
 <br>
