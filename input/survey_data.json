@@ -11,22 +11,22 @@
       },
       "sexism": {
         "good": "John is a man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that all people were equal and had a right to be treated with dignity and respect.",
-        "bad": "John is a man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that women were inferior and that he had a moral right to mistreat them."
+        "bad": "John is a man who was raised in a community of people who all shared similar moral beliefs. Growing up, he was taught to believe that all women were inferior and that he had a moral right to mistreat them."
       }
     },
 
     "reflection": {
       "racism": {
-        "yes": "As an adult, Tom reflected on the values he had been taught in his upbringing and repeatedly asked himself, \"What kind of person do I want to be?\" As a result of this reflection,",
-        "no": "As an adult, Tom never reflected on the values he had been taught in his upbringing and never asked himself, \"What kind of person do I want to be?\" Without further reflection,"
+        "yes": "As an adult, Tom reflected on the values he had been taught in his upbringing and repeatedly asked himself, \"What kind of person do I want to be?\" As a result of his reflections,",
+        "no": "As an adult, Tom never reflected on the values he had been taught in his upbringing and never asked himself, \"What kind of person do I want to be?\" Without ever reflecting on this,"
       },
       "homophobia": {
-        "yes": "As an adult, Mark reflected on the values he had been taught in his upbringing and repeatedly asked himself, \"What kind of person do I want to be?\" As a result of this reflection,",
-        "no": "As an adult, Mark never reflected on the values he had been taught in his upbringing and never asked himself, \"What kind of person do I want to be?\" Without further reflection,"
+        "yes": "As an adult, Mark reflected on the values he had been taught in his upbringing and repeatedly asked himself, \"What kind of person do I want to be?\" As a result of his reflections,",
+        "no": "As an adult, Mark never reflected on the values he had been taught in his upbringing and never asked himself, \"What kind of person do I want to be?\" Without ever reflecting on this,"
       },
       "sexism": {
-        "yes": "As an adult, John reflected on the values he had been taught in his upbringing and repeatedly asked himself, \"What kind of person do I want to be?\" As a result of this reflection,",
-        "no": "As an adult, John never reflected on the values he had been taught in his upbringing and never asked himself, \"What kind of person do I want to be?\" Without further reflection,"
+        "yes": "As an adult, John reflected on the values he had been taught in his upbringing and repeatedly asked himself, \"What kind of person do I want to be?\" As a result of his reflections,",
+        "no": "As an adult, John never reflected on the values he had been taught in his upbringing and never asked himself, \"What kind of person do I want to be?\" Without ever reflecting on this,"
       }
     },
 
