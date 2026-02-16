@@ -285,7 +285,7 @@ for(idx in 1:nrow(vignettes)){
       out("<br><br>")
       create_text('On the scale below, ranging from -6 meaning "disagree completely" to 6 meaning "completely agree", please indicate to what extent you agree to the following claim:', bold = T)
       out("<br><br>")
-      create_text(questions$question[questions$action == vignettes$action_level[1] & questions$topic == vignettes$topic[1] & questions$dv == "agreement"], bold = T)
+      create_text(questions$question[questions$action == vignettes$action_level[idx] & questions$topic == vignettes$topic[idx] & questions$dv == "agreement"], bold = T)
       scale <- seq(-6, 6, 1)
       scale <- ifelse(scale<0, paste0("&minus;", abs(scale)), as.character(scale))
       scale <- sapply(scale, function(x){
