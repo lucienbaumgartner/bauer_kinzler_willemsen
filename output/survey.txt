@@ -3967,3 +3967,607 @@ In politics, one speaks of left-wing and right-wing. How would you describe your
  6 
  7 = Right 
  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          itemID    EC
+1                      Consent  TRUE
+2                   ProlificID FALSE
+3         homophobia.1-pAction FALSE
+4        homophobia.1-pBeliefs FALSE
+5       homophobia.1-agreement FALSE
+6   comp_upbringing_homophobia  TRUE
+7         homophobia.1-botTrap  TRUE
+8         homophobia.2-pAction FALSE
+9        homophobia.2-pBeliefs FALSE
+10      homophobia.2-agreement FALSE
+11  comp_upbringing_homophobia  TRUE
+12        homophobia.2-botTrap  TRUE
+13        homophobia.3-pAction FALSE
+14       homophobia.3-pBeliefs FALSE
+15      homophobia.3-agreement FALSE
+16  comp_upbringing_homophobia  TRUE
+17        homophobia.3-botTrap  TRUE
+18        homophobia.4-pAction FALSE
+19       homophobia.4-pBeliefs FALSE
+20      homophobia.4-agreement FALSE
+21  comp_upbringing_homophobia  TRUE
+22        homophobia.4-botTrap  TRUE
+23        homophobia.5-pAction FALSE
+24       homophobia.5-pBeliefs FALSE
+25      homophobia.5-agreement FALSE
+26  comp_upbringing_homophobia  TRUE
+27        homophobia.5-botTrap  TRUE
+28        homophobia.6-pAction FALSE
+29       homophobia.6-pBeliefs FALSE
+30      homophobia.6-agreement FALSE
+31  comp_upbringing_homophobia  TRUE
+32        homophobia.6-botTrap  TRUE
+33        homophobia.7-pAction FALSE
+34       homophobia.7-pBeliefs FALSE
+35      homophobia.7-agreement FALSE
+36  comp_upbringing_homophobia  TRUE
+37        homophobia.7-botTrap  TRUE
+38        homophobia.8-pAction FALSE
+39       homophobia.8-pBeliefs FALSE
+40      homophobia.8-agreement FALSE
+41  comp_upbringing_homophobia  TRUE
+42        homophobia.8-botTrap  TRUE
+43        homophobia.9-pAction FALSE
+44       homophobia.9-pBeliefs FALSE
+45      homophobia.9-agreement FALSE
+46  comp_upbringing_homophobia  TRUE
+47        homophobia.9-botTrap  TRUE
+48       homophobia.10-pAction FALSE
+49      homophobia.10-pBeliefs FALSE
+50     homophobia.10-agreement FALSE
+51  comp_upbringing_homophobia  TRUE
+52       homophobia.10-botTrap  TRUE
+53       homophobia.11-pAction FALSE
+54      homophobia.11-pBeliefs FALSE
+55     homophobia.11-agreement FALSE
+56  comp_upbringing_homophobia  TRUE
+57       homophobia.11-botTrap  TRUE
+58       homophobia.12-pAction FALSE
+59      homophobia.12-pBeliefs FALSE
+60     homophobia.12-agreement FALSE
+61  comp_upbringing_homophobia  TRUE
+62       homophobia.12-botTrap  TRUE
+63       homophobia.13-pAction FALSE
+64      homophobia.13-pBeliefs FALSE
+65     homophobia.13-agreement FALSE
+66  comp_upbringing_homophobia  TRUE
+67       homophobia.13-botTrap  TRUE
+68       homophobia.14-pAction FALSE
+69      homophobia.14-pBeliefs FALSE
+70     homophobia.14-agreement FALSE
+71  comp_upbringing_homophobia  TRUE
+72       homophobia.14-botTrap  TRUE
+73       homophobia.15-pAction FALSE
+74      homophobia.15-pBeliefs FALSE
+75     homophobia.15-agreement FALSE
+76  comp_upbringing_homophobia  TRUE
+77       homophobia.15-botTrap  TRUE
+78       homophobia.16-pAction FALSE
+79      homophobia.16-pBeliefs FALSE
+80     homophobia.16-agreement FALSE
+81  comp_upbringing_homophobia  TRUE
+82       homophobia.16-botTrap  TRUE
+83            racism.1-pAction FALSE
+84           racism.1-pBeliefs FALSE
+85          racism.1-agreement FALSE
+86      comp_upbringing_racism  TRUE
+87            racism.1-botTrap  TRUE
+88            racism.2-pAction FALSE
+89           racism.2-pBeliefs FALSE
+90          racism.2-agreement FALSE
+91      comp_upbringing_racism  TRUE
+92            racism.2-botTrap  TRUE
+93            racism.3-pAction FALSE
+94           racism.3-pBeliefs FALSE
+95          racism.3-agreement FALSE
+96      comp_upbringing_racism  TRUE
+97            racism.3-botTrap  TRUE
+98            racism.4-pAction FALSE
+99           racism.4-pBeliefs FALSE
+100         racism.4-agreement FALSE
+101     comp_upbringing_racism  TRUE
+102           racism.4-botTrap  TRUE
+103           racism.5-pAction FALSE
+104          racism.5-pBeliefs FALSE
+105         racism.5-agreement FALSE
+106     comp_upbringing_racism  TRUE
+107           racism.5-botTrap  TRUE
+108           racism.6-pAction FALSE
+109          racism.6-pBeliefs FALSE
+110         racism.6-agreement FALSE
+111     comp_upbringing_racism  TRUE
+112           racism.6-botTrap  TRUE
+113           racism.7-pAction FALSE
+114          racism.7-pBeliefs FALSE
+115         racism.7-agreement FALSE
+116     comp_upbringing_racism  TRUE
+117           racism.7-botTrap  TRUE
+118           racism.8-pAction FALSE
+119          racism.8-pBeliefs FALSE
+120         racism.8-agreement FALSE
+121     comp_upbringing_racism  TRUE
+122           racism.8-botTrap  TRUE
+123           racism.9-pAction FALSE
+124          racism.9-pBeliefs FALSE
+125         racism.9-agreement FALSE
+126     comp_upbringing_racism  TRUE
+127           racism.9-botTrap  TRUE
+128          racism.10-pAction FALSE
+129         racism.10-pBeliefs FALSE
+130        racism.10-agreement FALSE
+131     comp_upbringing_racism  TRUE
+132          racism.10-botTrap  TRUE
+133          racism.11-pAction FALSE
+134         racism.11-pBeliefs FALSE
+135        racism.11-agreement FALSE
+136     comp_upbringing_racism  TRUE
+137          racism.11-botTrap  TRUE
+138          racism.12-pAction FALSE
+139         racism.12-pBeliefs FALSE
+140        racism.12-agreement FALSE
+141     comp_upbringing_racism  TRUE
+142          racism.12-botTrap  TRUE
+143          racism.13-pAction FALSE
+144         racism.13-pBeliefs FALSE
+145        racism.13-agreement FALSE
+146     comp_upbringing_racism  TRUE
+147          racism.13-botTrap  TRUE
+148          racism.14-pAction FALSE
+149         racism.14-pBeliefs FALSE
+150        racism.14-agreement FALSE
+151     comp_upbringing_racism  TRUE
+152          racism.14-botTrap  TRUE
+153          racism.15-pAction FALSE
+154         racism.15-pBeliefs FALSE
+155        racism.15-agreement FALSE
+156     comp_upbringing_racism  TRUE
+157          racism.15-botTrap  TRUE
+158          racism.16-pAction FALSE
+159         racism.16-pBeliefs FALSE
+160        racism.16-agreement FALSE
+161     comp_upbringing_racism  TRUE
+162          racism.16-botTrap  TRUE
+163           sexism.1-pAction FALSE
+164          sexism.1-pBeliefs FALSE
+165         sexism.1-agreement FALSE
+166     comp_upbringing_sexism  TRUE
+167           sexism.1-botTrap  TRUE
+168           sexism.2-pAction FALSE
+169          sexism.2-pBeliefs FALSE
+170         sexism.2-agreement FALSE
+171     comp_upbringing_sexism  TRUE
+172           sexism.2-botTrap  TRUE
+173           sexism.3-pAction FALSE
+174          sexism.3-pBeliefs FALSE
+175         sexism.3-agreement FALSE
+176     comp_upbringing_sexism  TRUE
+177           sexism.3-botTrap  TRUE
+178           sexism.4-pAction FALSE
+179          sexism.4-pBeliefs FALSE
+180         sexism.4-agreement FALSE
+181     comp_upbringing_sexism  TRUE
+182           sexism.4-botTrap  TRUE
+183           sexism.5-pAction FALSE
+184          sexism.5-pBeliefs FALSE
+185         sexism.5-agreement FALSE
+186     comp_upbringing_sexism  TRUE
+187           sexism.5-botTrap  TRUE
+188           sexism.6-pAction FALSE
+189          sexism.6-pBeliefs FALSE
+190         sexism.6-agreement FALSE
+191     comp_upbringing_sexism  TRUE
+192           sexism.6-botTrap  TRUE
+193           sexism.7-pAction FALSE
+194          sexism.7-pBeliefs FALSE
+195         sexism.7-agreement FALSE
+196     comp_upbringing_sexism  TRUE
+197           sexism.7-botTrap  TRUE
+198           sexism.8-pAction FALSE
+199          sexism.8-pBeliefs FALSE
+200         sexism.8-agreement FALSE
+                                                                                                                                            answer_options
+1                                                                                                                               I consent;I do not consent
+2                                                                                                                                                 freeText
+3   &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+4   &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+5                &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+6                    In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+7                                                                                                                                                 freeText
+8   &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+9   &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+10               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+11                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+12                                                                                                                                                freeText
+13  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+14  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+15               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+16                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+17                                                                                                                                                freeText
+18  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+19  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+20               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+21                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+22                                                                                                                                                freeText
+23  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+24  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+25               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+26                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+27                                                                                                                                                freeText
+28  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+29  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+30               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+31                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+32                                                                                                                                                freeText
+33  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+34  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+35               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+36                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+37                                                                                                                                                freeText
+38  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+39  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+40               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+41                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+42                                                                                                                                                freeText
+43  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+44  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+45               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+46                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+47                                                                                                                                                freeText
+48  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+49  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+50               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+51                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+52                                                                                                                                                freeText
+53  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+54  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+55               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+56                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+57                                                                                                                                                freeText
+58  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+59  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+60               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+61                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+62                                                                                                                                                freeText
+63  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+64  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+65               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+66                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+67                                                                                                                                                freeText
+68  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+69  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+70               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+71                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+72                                                                                                                                                freeText
+73  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+74  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+75               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+76                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+77                                                                                                                                                freeText
+78  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+79  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+80               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+81                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+82                                                                                                                                                freeText
+83  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+84  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+85               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+86                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+87                                                                                                                                                freeText
+88  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+89  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+90               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+91                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+92                                                                                                                                                freeText
+93  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+94  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+95               &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+96                   In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+97                                                                                                                                                freeText
+98  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+99  &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+100              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+101                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+102                                                                                                                                               freeText
+103 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+104 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+105              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+106                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+107                                                                                                                                               freeText
+108 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+109 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+110              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+111                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+112                                                                                                                                               freeText
+113 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+114 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+115              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+116                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+117                                                                                                                                               freeText
+118 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+119 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+120              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+121                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+122                                                                                                                                               freeText
+123 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+124 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+125              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+126                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+127                                                                                                                                               freeText
+128 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+129 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+130              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+131                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+132                                                                                                                                               freeText
+133 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+134 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+135              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+136                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+137                                                                                                                                               freeText
+138 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+139 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+140              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+141                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+142                                                                                                                                               freeText
+143 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+144 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+145              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+146                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+147                                                                                                                                               freeText
+148 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+149 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+150              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+151                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+152                                                                                                                                               freeText
+153 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+154 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+155              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+156                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+157                                                                                                                                               freeText
+158 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+159 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+160              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+161                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+162                                                                                                                                               freeText
+163 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+164 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+165              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+166                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+167                                                                                                                                               freeText
+168 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+169 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+170              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+171                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+172                                                                                                                                               freeText
+173 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+174 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+175              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+176                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+177                                                                                                                                               freeText
+178 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+179 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+180              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+181                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+182                                                                                                                                               freeText
+183 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+184 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+185              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+186                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+187                                                                                                                                               freeText
+188 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+189 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+190              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+191                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+192                                                                                                                                               freeText
+193 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+194 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+195              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+196                  In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.
+197                                                                                                                                               freeText
+198 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+199 &minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy
+200              &minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely
+                                                    correct_answer incorrect_answer
+1                                                             <NA>             <NA>
+2                                                             <NA>             <NA>
+3                                                             <NA>             <NA>
+4                                                             <NA>             <NA>
+5                                                             <NA>             <NA>
+6   In a community of people who all shared similar moral beliefs.             <NA>
+7                                                             <NA>           1maB0t
+8                                                             <NA>             <NA>
+9                                                             <NA>             <NA>
+10                                                            <NA>             <NA>
+11  In a community of people who all shared similar moral beliefs.             <NA>
+12                                                            <NA>           1maB0t
+13                                                            <NA>             <NA>
+14                                                            <NA>             <NA>
+15                                                            <NA>             <NA>
+16  In a community of people who all shared similar moral beliefs.             <NA>
+17                                                            <NA>           1maB0t
+18                                                            <NA>             <NA>
+19                                                            <NA>             <NA>
+20                                                            <NA>             <NA>
+21  In a community of people who all shared similar moral beliefs.             <NA>
+22                                                            <NA>           1maB0t
+23                                                            <NA>             <NA>
+24                                                            <NA>             <NA>
+25                                                            <NA>             <NA>
+26  In a community of people who all shared similar moral beliefs.             <NA>
+27                                                            <NA>           1maB0t
+28                                                            <NA>             <NA>
+29                                                            <NA>             <NA>
+30                                                            <NA>             <NA>
+31  In a community of people who all shared similar moral beliefs.             <NA>
+32                                                            <NA>           1maB0t
+33                                                            <NA>             <NA>
+34                                                            <NA>             <NA>
+35                                                            <NA>             <NA>
+36  In a community of people who all shared similar moral beliefs.             <NA>
+37                                                            <NA>           1maB0t
+38                                                            <NA>             <NA>
+39                                                            <NA>             <NA>
+40                                                            <NA>             <NA>
+41  In a community of people who all shared similar moral beliefs.             <NA>
+42                                                            <NA>           1maB0t
+43                                                            <NA>             <NA>
+44                                                            <NA>             <NA>
+45                                                            <NA>             <NA>
+46  In a community of people who all shared similar moral beliefs.             <NA>
+47                                                            <NA>           1maB0t
+48                                                            <NA>             <NA>
+49                                                            <NA>             <NA>
+50                                                            <NA>             <NA>
+51  In a community of people who all shared similar moral beliefs.             <NA>
+52                                                            <NA>           1maB0t
+53                                                            <NA>             <NA>
+54                                                            <NA>             <NA>
+55                                                            <NA>             <NA>
+56  In a community of people who all shared similar moral beliefs.             <NA>
+57                                                            <NA>           1maB0t
+58                                                            <NA>             <NA>
+59                                                            <NA>             <NA>
+60                                                            <NA>             <NA>
+61  In a community of people who all shared similar moral beliefs.             <NA>
+62                                                            <NA>           1maB0t
+63                                                            <NA>             <NA>
+64                                                            <NA>             <NA>
+65                                                            <NA>             <NA>
+66  In a community of people who all shared similar moral beliefs.             <NA>
+67                                                            <NA>           1maB0t
+68                                                            <NA>             <NA>
+69                                                            <NA>             <NA>
+70                                                            <NA>             <NA>
+71  In a community of people who all shared similar moral beliefs.             <NA>
+72                                                            <NA>           1maB0t
+73                                                            <NA>             <NA>
+74                                                            <NA>             <NA>
+75                                                            <NA>             <NA>
+76  In a community of people who all shared similar moral beliefs.             <NA>
+77                                                            <NA>           1maB0t
+78                                                            <NA>             <NA>
+79                                                            <NA>             <NA>
+80                                                            <NA>             <NA>
+81  In a community of people who all shared similar moral beliefs.             <NA>
+82                                                            <NA>           1maB0t
+83                                                            <NA>             <NA>
+84                                                            <NA>             <NA>
+85                                                            <NA>             <NA>
+86  In a community of people who all shared similar moral beliefs.             <NA>
+87                                                            <NA>           1maB0t
+88                                                            <NA>             <NA>
+89                                                            <NA>             <NA>
+90                                                            <NA>             <NA>
+91  In a community of people who all shared similar moral beliefs.             <NA>
+92                                                            <NA>           1maB0t
+93                                                            <NA>             <NA>
+94                                                            <NA>             <NA>
+95                                                            <NA>             <NA>
+96  In a community of people who all shared similar moral beliefs.             <NA>
+97                                                            <NA>           1maB0t
+98                                                            <NA>             <NA>
+99                                                            <NA>             <NA>
+100                                                           <NA>             <NA>
+101 In a community of people who all shared similar moral beliefs.             <NA>
+102                                                           <NA>           1maB0t
+103                                                           <NA>             <NA>
+104                                                           <NA>             <NA>
+105                                                           <NA>             <NA>
+106 In a community of people who all shared similar moral beliefs.             <NA>
+107                                                           <NA>           1maB0t
+108                                                           <NA>             <NA>
+109                                                           <NA>             <NA>
+110                                                           <NA>             <NA>
+111 In a community of people who all shared similar moral beliefs.             <NA>
+112                                                           <NA>           1maB0t
+113                                                           <NA>             <NA>
+114                                                           <NA>             <NA>
+115                                                           <NA>             <NA>
+116 In a community of people who all shared similar moral beliefs.             <NA>
+117                                                           <NA>           1maB0t
+118                                                           <NA>             <NA>
+119                                                           <NA>             <NA>
+120                                                           <NA>             <NA>
+121 In a community of people who all shared similar moral beliefs.             <NA>
+122                                                           <NA>           1maB0t
+123                                                           <NA>             <NA>
+124                                                           <NA>             <NA>
+125                                                           <NA>             <NA>
+126 In a community of people who all shared similar moral beliefs.             <NA>
+127                                                           <NA>           1maB0t
+128                                                           <NA>             <NA>
+129                                                           <NA>             <NA>
+130                                                           <NA>             <NA>
+131 In a community of people who all shared similar moral beliefs.             <NA>
+132                                                           <NA>           1maB0t
+133                                                           <NA>             <NA>
+134                                                           <NA>             <NA>
+135                                                           <NA>             <NA>
+136 In a community of people who all shared similar moral beliefs.             <NA>
+137                                                           <NA>           1maB0t
+138                                                           <NA>             <NA>
+139                                                           <NA>             <NA>
+140                                                           <NA>             <NA>
+141 In a community of people who all shared similar moral beliefs.             <NA>
+142                                                           <NA>           1maB0t
+143                                                           <NA>             <NA>
+144                                                           <NA>             <NA>
+145                                                           <NA>             <NA>
+146 In a community of people who all shared similar moral beliefs.             <NA>
+147                                                           <NA>           1maB0t
+148                                                           <NA>             <NA>
+149                                                           <NA>             <NA>
+150                                                           <NA>             <NA>
+151 In a community of people who all shared similar moral beliefs.             <NA>
+152                                                           <NA>           1maB0t
+153                                                           <NA>             <NA>
+154                                                           <NA>             <NA>
+155                                                           <NA>             <NA>
+156 In a community of people who all shared similar moral beliefs.             <NA>
+157                                                           <NA>           1maB0t
+158                                                           <NA>             <NA>
+159                                                           <NA>             <NA>
+160                                                           <NA>             <NA>
+161 In a community of people who all shared similar moral beliefs.             <NA>
+162                                                           <NA>           1maB0t
+163                                                           <NA>             <NA>
+164                                                           <NA>             <NA>
+165                                                           <NA>             <NA>
+166 In a community of people who all shared similar moral beliefs.             <NA>
+167                                                           <NA>           1maB0t
+168                                                           <NA>             <NA>
+169                                                           <NA>             <NA>
+170                                                           <NA>             <NA>
+171 In a community of people who all shared similar moral beliefs.             <NA>
+172                                                           <NA>           1maB0t
+173                                                           <NA>             <NA>
+174                                                           <NA>             <NA>
+175                                                           <NA>             <NA>
+176 In a community of people who all shared similar moral beliefs.             <NA>
+177                                                           <NA>           1maB0t
+178                                                           <NA>             <NA>
+179                                                           <NA>             <NA>
+180                                                           <NA>             <NA>
+181 In a community of people who all shared similar moral beliefs.             <NA>
+182                                                           <NA>           1maB0t
+183                                                           <NA>             <NA>
+184                                                           <NA>             <NA>
+185                                                           <NA>             <NA>
+186 In a community of people who all shared similar moral beliefs.             <NA>
+187                                                           <NA>           1maB0t
+188                                                           <NA>             <NA>
+189                                                           <NA>             <NA>
+190                                                           <NA>             <NA>
+191 In a community of people who all shared similar moral beliefs.             <NA>
+192                                                           <NA>           1maB0t
+193                                                           <NA>             <NA>
+194                                                           <NA>             <NA>
+195                                                           <NA>             <NA>
+196 In a community of people who all shared similar moral beliefs.             <NA>
+197                                                           <NA>           1maB0t
+198                                                           <NA>             <NA>
+199                                                           <NA>             <NA>
+200                                                           <NA>             <NA>
+ [ reached 'max' / getOption("max.print") -- omitted 52 rows ]
