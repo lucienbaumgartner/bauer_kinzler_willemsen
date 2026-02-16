@@ -305,8 +305,8 @@ for(idx in 1:nrow(vignettes)){
         
     }
     
-        create_answer_options(c("In a community that all shared similar moral beliefs.",
-                                "In a community that differed strongly in their moral beliefs."))
+        create_answer_options(c("In a community of people who all shared similar moral beliefs.",
+                                "In a community of people who differed strongly in their moral beliefs."))
     
     page_break()
     
