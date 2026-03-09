@@ -1,86 +1,6 @@
 "itemID","EC","answer_options","correct_answer","incorrect_answer"
 "Consent",TRUE,"I consent;I do not consent",NA,NA
 "ProlificID",FALSE,"freeText",NA,NA
-"homophobia.1-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.1-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.1-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.1-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.2-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.2-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.2-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.2-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.3-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.3-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.3-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.3-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.4-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.4-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.4-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.4-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.5-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.5-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.5-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.5-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.6-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.6-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.6-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.6-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.7-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.7-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.7-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.7-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.8-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.8-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.8-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.8-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.9-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.9-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.9-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.9-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.10-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.10-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.10-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.10-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.11-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.11-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.11-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.11-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.12-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.12-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.12-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.12-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.13-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.13-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.13-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.13-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.14-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.14-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.14-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.14-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.15-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.15-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.15-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.15-botTrap",TRUE,"freeText",NA,"1maB0t"
-"homophobia.16-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.16-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"homophobia.16-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_homophobia",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"homophobia.16-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.1-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.1-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.1-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
@@ -161,93 +81,51 @@
 "racism.16-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
 "comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
 "racism.16-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.1-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.1-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.1-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.1-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.2-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.2-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.2-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.2-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.3-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.3-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.3-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.3-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.4-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.4-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.4-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.4-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.5-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.5-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.5-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.5-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.6-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.6-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.6-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.6-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.7-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.7-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.7-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.7-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.8-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.8-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.8-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.8-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.9-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.9-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.9-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.9-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.10-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.10-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.10-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.10-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.11-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.11-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.11-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.11-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.12-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.12-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.12-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.12-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.13-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.13-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.13-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.13-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.14-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.14-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.14-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.14-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.15-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.15-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.15-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.15-botTrap",TRUE,"freeText",NA,"1maB0t"
-"sexism.16-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.16-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
-"sexism.16-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"comp_upbringing_sexism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"sexism.16-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.17-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.17-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.17-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.17-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.18-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.18-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.18-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.18-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.19-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.19-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.19-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.19-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.20-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.20-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.20-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.20-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.21-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.21-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.21-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.21-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.22-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.22-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.22-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.22-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.23-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.23-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.23-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.23-botTrap",TRUE,"freeText",NA,"1maB0t"
+"racism.24-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.24-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
+"racism.24-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
+"comp_upbringing_racism",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
+"racism.24-botTrap",TRUE,"freeText",NA,"1maB0t"
 "ultQ",TRUE,"freeText","42",NA
 "Gender",FALSE,"Female;Male;Non-binary;Prefer not to say",NA,NA
 "Age",FALSE,"freeText",NA,NA
 "Education",FALSE,"Less than high school;High school diploma or equivalent;Associate degree (e.g., AA or AS);Bachelor's degree (e.g., BA or BSC);Master's degree (e.g., MA or MSc);Professional degree (e.g., JD or MD);Doctorate (e.g., PhD or EdD)",NA,NA
-"Experience-homophobia",FALSE,"No;Yes;Prefer not to say",NA,NA
 "Experience-racism",FALSE,"No;Yes;Prefer not to say",NA,NA
-"Experience-sexism",FALSE,"No;Yes;Prefer not to say",NA,NA
 "freeWill",FALSE,"1 = Philosophical Determinism;2;3;4;5;6;7 = Free Will",NA,NA
 "determinism",FALSE,"1 = Social Determinism;2;3;4;5;6;7 = Individual Choice",NA,NA
 "politics",FALSE,"1 = Left;2;3;4;5;6;7 = Right",NA,NA

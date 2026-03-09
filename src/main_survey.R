@@ -165,7 +165,15 @@ vignettes <- vignettes %>%
 vignettes <- vignettes %>% mutate(qualtrics_id = make.unique2(topic))
 vignettes$qualtrics_id
 
-write.table(vignettes, file = "../output/vignettes.txt", quote = F, row.names = F)
+# extract action type (help/offense)
+vignettes <- vignettes %>%
+  mutate(action_type = str_extract(action_level, "help|offense"))
+
+# extract action age (18/25/35)
+vignettes <- vignettes %>%
+  mutate(action_age = str_extract(action_level, "\\d+"))
+
+write.table(vignettes, file = "../output/vignettes.txt", quote = T, row.names = F, sep = ";")
 
 
 # 1. Read JSON file
@@ -251,7 +259,7 @@ for(idx in 1:nrow(vignettes)){
     item_id(iid)
       create_text(vignettes$combined_text[idx])
       out("<br><br>")
-      create_text(questions$question[questions$action == vignettes$action_level[idx] & questions$topic == vignettes$topic[idx] & questions$dv == "praiseworthiness_action"], bold = T)
+      create_text(questions$question[questions$action == vignettes$action_type[idx] & questions$topic == vignettes$topic[idx] & questions$dv == "praiseworthiness_action"], bold = T)
       scale <- seq(-6, 6, 1)
       scale <- ifelse(scale<0, paste0("&minus;", abs(scale)), as.character(scale))
       scale <- sapply(scale, function(x){
@@ -285,7 +293,7 @@ for(idx in 1:nrow(vignettes)){
       out("<br><br>")
       create_text('On the scale below, ranging from -6 meaning "disagree completely" to 6 meaning "completely agree", please indicate to what extent you agree to the following claim:', bold = T)
       out("<br><br>")
-      create_text(questions$question[questions$action == vignettes$action_level[idx] & questions$topic == vignettes$topic[idx] & questions$dv == "agreement"], bold = T)
+      create_text(questions$question[questions$action == vignettes$action_type[idx] & questions$topic == vignettes$topic[idx] & questions$dv == "agreement"], bold = T)
       scale <- seq(-6, 6, 1)
       scale <- ifelse(scale<0, paste0("&minus;", abs(scale)), as.character(scale))
       scale <- sapply(scale, function(x){
@@ -303,38 +311,22 @@ for(idx in 1:nrow(vignettes)){
     aw <- c("In a community of people who all shared similar moral beliefs.",
       "In a community of people who differed strongly in their moral beliefs.")
     
-    if(vignettes$topic[idx] == "racism"){
-        
-      create_item(QTYPE = "MC", SINGLEANSWER = T)
-      item_id("comp_upbringing_racism")
-        create_text("According to the story, where was Tom raised?", bold = T)
-        
-      meta <- bind_rows(meta, tibble(itemID = "comp_upbringing_racism", EC = TRUE, answer_options = list(aw), correct_answer = aw[1]))
-        
-    } else if(vignettes$topic[idx] == "homophobia"){
-      
-      create_item(QTYPE = "MC", SINGLEANSWER = T)
-        item_id("comp_upbringing_homophobia")
-        create_text("According to the story, where was Mark raised?", bold = T)
-        
-      meta <- bind_rows(meta, tibble(itemID = "comp_upbringing_homophobia", EC = TRUE, answer_options = list(aw), correct_answer = aw[1]))
-        
-        
-    } else if(vignettes$topic[idx] == "sexism"){
-      
-      create_item(QTYPE = "MC", SINGLEANSWER = T)
-        item_id("comp_upbringing_sexism")
-        create_text("According to the story, where was John raised?", bold = T)
-        
-      meta <- bind_rows(meta, tibble(itemID = "comp_upbringing_sexism", EC = TRUE, answer_options = list(aw), correct_answer = aw[1]))
-        
-    }
+    create_item(QTYPE = "MC", SINGLEANSWER = T)
+    item_id("comp_upbringing_racism")
+    create_text("According to the story, where was Tom raised?", bold = T)
     
-      create_answer_options(aw)
+    meta <- bind_rows(meta, tibble(
+      itemID = "comp_upbringing_racism",
+      EC = TRUE,
+      answer_options = list(aw),
+      correct_answer = aw[1]
+    ))
+    
+    create_answer_options(aw)
     
     page_break()
     
-    agent <- str_extract(vignettes$combined_text[idx], "Tom|Mark|John")
+    agent <- str_extract(vignettes$combined_text[idx], "Tom")
     iid <- paste0(vignettes$qualtrics_id[idx], "-botTrap")
     create_item(QTYPE = "TE:SingleLine")
       item_id(iid)
@@ -386,14 +378,7 @@ create_block("BDemographics")
     
 ## Post Ex Questionnaire
 aw <- c("No", "Yes", "Prefer not to say")
-create_block("BPostEx-homophobia")
-  create_item(SINGLEANSWER = T)
-  item_id("Experience-homophobia")
-    create_text("Have you ever experienced homophobia in the course of your life?") 
-    create_answer_options(aw)
-  
-meta <- bind_rows(meta, tibble(itemID = "Experience-homophobia", EC = FALSE, answer_options = list(aw)))
-    
+
 create_block("BPostEx-racism")
   create_item(SINGLEANSWER = T)
   item_id("Experience-racism")
@@ -402,15 +387,6 @@ create_block("BPostEx-racism")
     
 meta <- bind_rows(meta, tibble(itemID = "Experience-racism", EC = FALSE, answer_options = list(aw)))
     
-    
-create_block("BPostEx-sexism")
-  create_item(SINGLEANSWER = T)
-  item_id("Experience-sexism")
-    create_text("Have you ever experienced sexism in the course of your life?") 
-    create_answer_options(aw)
-    
-meta <- bind_rows(meta, tibble(itemID = "Experience-sexism", EC = FALSE, answer_options = list(aw)))
-
 create_block("BPostEx-FreeWill")
     create_item(QTYPE = "MC", SINGLEANSWER = T, LAYOUT = "Horizontal") # HIER MACHST DU DIE DIE HORIZONTALE SKALA
     item_id("freeWill")
