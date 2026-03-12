@@ -165,7 +165,7 @@ vignettes <- vignettes %>%
 vignettes <- vignettes %>% mutate(qualtrics_id = make.unique2(topic))
 vignettes$qualtrics_id
 
-write.table(vignettes, file = "../output/vignettes.txt", quote = F, row.names = F)
+write.table(vignettes, file = "../output/vignettes.txt", quote = T, row.names = F, sep = ";")
 
 
 # 1. Read JSON file
