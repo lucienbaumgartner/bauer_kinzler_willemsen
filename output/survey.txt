@@ -2029,3 +2029,12 @@ In politics, one speaks of left-wing and right-wing. How would you describe your
  6 
  7 = Right 
  
+[[Block:BPostEx-MoralRealism]] 
+[[Question:MC:SingleAnswer:Vertical]] 
+[[ID:MoralRealism]] 
+Imagine that Person A says, 'This action is morally wrong,' and Person B says, 'This action is morally right.' Given that they disagree on the same action, which of the following statements do you think is most likely to be correct? 
+[[Choices]]
+ At least one of the two people must be wrong. 
+ Both could be right. 
+ I am not sure. 
+ 

@@ -129,3 +129,4 @@
 "freeWill",FALSE,"1 = Philosophical Determinism;2;3;4;5;6;7 = Free Will",NA,NA
 "determinism",FALSE,"1 = Social Determinism;2;3;4;5;6;7 = Individual Choice",NA,NA
 "politics",FALSE,"1 = Left;2;3;4;5;6;7 = Right",NA,NA
+"MoralRealism",FALSE,"At least one of the two people must be wrong.;Both could be right.;I am not sure.",NA,NA

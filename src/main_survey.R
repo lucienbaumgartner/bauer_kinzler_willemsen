@@ -434,6 +434,15 @@ create_block("BPostEx-Politics")
       
 meta <- bind_rows(meta, tibble(itemID = "politics", EC = FALSE, answer_options = list(scale)))
 
+create_block("BPostEx-MoralRealism")
+aw <- c("At least one of the two people must be wrong.", "Both could be right.", "I am not sure.")
+create_item(SINGLEANSWER = T)
+item_id("MoralRealism")
+create_text("Imagine that Person A says, 'This action is morally wrong,' and Person B says, 'This action is morally right.' Given that they disagree on the same action, which of the following statements do you think is most likely to be correct?")
+create_answer_options(aw)
+
+meta <- bind_rows(meta, tibble(itemID = "MoralRealism", EC = FALSE, answer_options = list(aw)))
+
 sink()
 
 saveRDS(meta, file = "../output/metadata.RDS")
