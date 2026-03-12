@@ -306,17 +306,18 @@ for(idx in 1:nrow(vignettes)){
       
     meta <- bind_rows(meta, tibble(itemID = iid, EC = FALSE, answer_options = list(scale)))
       
-    page_break()
+    create_block(paste0("B-", vignettes$qualtrics_id[idx], "-attention"))
     
     aw <- c("In a community of people who all shared similar moral beliefs.",
       "In a community of people who differed strongly in their moral beliefs.")
     
     create_item(QTYPE = "MC", SINGLEANSWER = T)
-    item_id("comp_upbringing_racism")
+    iid <- paste0(vignettes$qualtrics_id[idx], "-comp")
+    item_id(iid)
     create_text("According to the story, where was Tom raised?", bold = T)
     
     meta <- bind_rows(meta, tibble(
-      itemID = "comp_upbringing_racism",
+      itemID = iid,
       EC = TRUE,
       answer_options = list(aw),
       correct_answer = aw[1]
@@ -324,7 +325,7 @@ for(idx in 1:nrow(vignettes)){
     
     create_answer_options(aw)
     
-    page_break()
+    create_block(paste0("B-", vignettes$qualtrics_id[idx], "-bot"))
     
     agent <- str_extract(vignettes$combined_text[idx], "Tom")
     iid <- paste0(vignettes$qualtrics_id[idx], "-botTrap")
