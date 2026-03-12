@@ -86,15 +86,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.1-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.1-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.1-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.1-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -166,15 +166,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.2-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.2-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.2-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.2-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -246,15 +246,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.3-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.3-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.3-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.3-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -326,15 +326,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.4-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.4-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.4-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.4-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -406,15 +406,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.5-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.5-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.5-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.5-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -486,15 +486,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.6-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.6-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.6-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.6-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -566,15 +566,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.7-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.7-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.7-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.7-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -646,15 +646,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.8-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.8-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.8-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.8-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -726,15 +726,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.9-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.9-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.9-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.9-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -806,15 +806,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.10-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.10-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.10-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.10-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -886,15 +886,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.11-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.11-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.11-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.11-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -966,15 +966,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.12-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.12-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.12-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.12-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1046,15 +1046,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.13-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.13-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.13-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.13-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1126,15 +1126,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.14-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.14-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.14-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.14-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1206,15 +1206,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.15-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.15-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.15-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.15-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1286,15 +1286,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.16-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.16-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.16-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.16-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1366,15 +1366,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.17-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.17-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.17-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.17-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1446,15 +1446,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.18-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.18-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.18-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.18-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1526,15 +1526,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.19-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.19-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.19-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.19-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1606,15 +1606,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.20-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.20-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.20-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.20-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1686,15 +1686,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.21-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.21-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.21-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.21-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1766,15 +1766,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.22-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.22-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.22-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.22-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1846,15 +1846,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.23-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.23-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.23-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.23-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
@@ -1926,15 +1926,15 @@ Tom is a white man who was raised in a community of people who all shared simila
  5 
  6 = agree completely 
  
-[[PageBreak]]
+[[Block:B-racism.24-attention]] 
 [[Question:MC:SingleAnswer:Vertical]] 
-[[ID:comp_upbringing_racism]] 
+[[ID:racism.24-comp]] 
 <b>According to the story, where was Tom raised?</b> 
 [[Choices]]
  In a community of people who all shared similar moral beliefs. 
  In a community of people who differed strongly in their moral beliefs. 
  
-[[PageBreak]]
+[[Block:B-racism.24-bot]] 
 [[Question:TE:SingleLine:Vertical]] 
 [[ID:racism.24-botTrap]] 
 Please describe what kind of person you believe Tom is. What is his "true self"? 
