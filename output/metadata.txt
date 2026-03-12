@@ -4,118 +4,72 @@
 "racism.1-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.1-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.1-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.1-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.1-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.2-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.2-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.2-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.2-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.2-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.3-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.3-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.3-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.3-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.3-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.4-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.4-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.4-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.4-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.4-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.5-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.5-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.5-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.5-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.5-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.6-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.6-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.6-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.6-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.6-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.7-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.7-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.7-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.7-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.7-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.8-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.8-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.8-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.8-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.8-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.9-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.9-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.9-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.9-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.9-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.10-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.10-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.10-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.10-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.10-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.11-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.11-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.11-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.11-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.11-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.12-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.12-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.12-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.12-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.12-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.13-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.13-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.13-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.13-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.13-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.14-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.14-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.14-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.14-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.14-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.15-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.15-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.15-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.15-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.15-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.16-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.16-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.16-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.16-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.16-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.17-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.17-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.17-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.17-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.17-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.18-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.18-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.18-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.18-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.18-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.19-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.19-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.19-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.19-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.19-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.20-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.20-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.20-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.20-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.20-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.21-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.21-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.21-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.21-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.21-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.22-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.22-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.22-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.22-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.22-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.23-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.23-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.23-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
-"racism.23-comp",TRUE,"In a community of people who all shared similar moral beliefs.;In a community of people who differed strongly in their moral beliefs.","In a community of people who all shared similar moral beliefs.",NA
-"racism.23-botTrap",TRUE,"freeText",NA,"1maB0t"
 "racism.24-pAction",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.24-pBeliefs",FALSE,"&minus;6 = extremely blameworthy;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither blame- nor praiseworthy;1;2;3;4;5;6 = extremely praiseworthy",NA,NA
 "racism.24-agreement",FALSE,"&minus;6 = disagree completely;&minus;5;&minus;4;&minus;3;&minus;2;&minus;1;0 = neither disagree nor agree;1;2;3;4;5;6 = agree completely",NA,NA
